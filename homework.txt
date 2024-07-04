@@ -1,0 +1,2 @@
+ローマ字の自分の名前のhtmlファイル(例：六田 rokuta.html)
+を作って自分のブランチにcommit pushしてそのあと六田にpull requestしろ
