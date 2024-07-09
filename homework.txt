@@ -2,3 +2,4 @@
 を作って自分のブランチにcommit pushしてそのあと六田にpull requestしろ
 
 うんこ
+tinpo
